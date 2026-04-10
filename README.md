@@ -39,3 +39,5 @@
 # 배포 링크
 
 https://gamjaismine02.github.io/web-today-i-learn/
+
+# Today I Learn 페이지 만들기
